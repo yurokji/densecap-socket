@@ -3,7 +3,9 @@ Densecap socket webcam server bridge script and client script, implemented upon 
 
 If you want to use this webcam bridge, 
 you should install densecap properly beforehand, and execute the densecap server commands as below:
+
 th webcam/daemon.lua
+
 python webcam/server.py
 
 Video: https://www.youtube.com/watch?v=fgCm_AA-Dgo
